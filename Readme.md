@@ -1,8 +1,9 @@
-﻿**AUTOMOBILE DATASET ANALYSIS ![ref1]**
+﻿**<p align="center">AUTOMOBILE DATASET ANALYSIS</p>**
 
-`                                                 `Presented by- Tejas Langhe 
+`                                                <p align="center"> Presented by- Tejas Langhe </p>
 
-`                            `**DASHBOARD BASED ON AUTOMOBILE DATASET** 
+ <p align="center">
+                           **DASHBOARD BASED ON AUTOMOBILE DATASET** 
 
 ![](Aspose.Words.d6bb2b07-2510-4502-983f-60427aecc4ce.002.jpeg)
 
@@ -18,7 +19,7 @@ Understand the market prices of vehicles engines.
 
 \2) City-mpg wise Market Price : 
 
-Determine the market price of vehicle in city-mpg.  ![ref1]
+Determine the market price of vehicle in city-mpg.  
 
 3)Engine Size :   
 
@@ -40,7 +41,7 @@ Identify the range of fuel system with respect to different engine type.
 
 ![](Aspose.Words.d6bb2b07-2510-4502-983f-60427aecc4ce.003.png)
 
-Engine type                                 Price 1.ohc                                             150 2.ohcf                                             ![ref1]10 3.ohcv                                              9 4.dohc                                              8 
+Engine type                                 Price 1.ohc                                             150 2.ohcf                                             10 3.ohcv                                              9 4.dohc                                              8 
 
 This chart shows the prices of engine type such as ohc (150) ,ohcf (10) ,ohcv (9) , dohc (8) ,I (8) ,etc. 
 
@@ -58,7 +59,7 @@ City-mpg                                        Price
 1) 19                                                27(13.17 %) 
 1) 24                                                22(10.73 %) 
 
-3)Sum of Engine size by Engine type ![ref1]
+3)Sum of Engine size by Engine type 
 
 **Visualization** = Funnel chart 
 
@@ -78,7 +79,7 @@ Engine Type                        Engine Size 1.ohc                            
 
 ![](Aspose.Words.d6bb2b07-2510-4502-983f-60427aecc4ce.006.png)
 
-Symboling                               Price ![ref1]
+Symboling                               Price 
 
 1  54 2  30 3  25 
 
@@ -93,3 +94,4 @@ Symboling                               Price ![ref1]
 In this chart shows the count of fuel system by engine type. Engine type over fuel system is ohc has more than 100 but remaining are lesser fuel systems such as ohcf ,ohcv ,dohc ,I ,rotor ,etc. 
 
 [ref1]: Aspose.Words.d6bb2b07-2510-4502-983f-60427aecc4ce.001.png
+</p>
