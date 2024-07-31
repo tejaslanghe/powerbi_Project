@@ -17,7 +17,7 @@ In Automobile dataset, there are different information about automobile data lik
 
 Understand the market prices of vehicles engines. 
 
-\2) City-mpg wise Market Price : 
+2) City-mpg wise Market Price : 
 
 Determine the market price of vehicle in city-mpg.  
 
@@ -29,7 +29,7 @@ Determine the market price of vehicle in city-mpg.
 
 Determine the symbolling of vehicle with respect to its price. 
 
-\5) Fuel System Range : 
+5) Fuel System Range : 
 
 Identify the range of fuel system with respect to different engine type. 
 
@@ -83,7 +83,7 @@ Symboling                               Price
 
 1  54 2  30 3  25 
 
-\5) Count of fuel system by Engine types 
+5) Count of fuel system by Engine types 
 
 **Visualization** = Line chart** 
 
