@@ -64,5 +64,4 @@ This project highlights how Power BI can transform raw automotive data into stra
 
 ---
 
-- Integrate **forecasting models** for predicting automobile trends.  
-- Expand with **geographical analysis** (if location data available).  
+ 
