@@ -1,61 +1,68 @@
-# 🚗 Automobile Dataset Analysis – Power BI Dashboard  
+# ​🚗 Automobile Dataset Analysis – Power BI Dashboard
 
-## 📊 Dashboard Preview  
-![Automobile Dashboard](https://github.com/akanksha7218/Excel-Data-Analysis/blob/main/Excel%20Project%201.jpg)  
-
----
-
-## 📌 Project Overview  
-This project demonstrates how **Power BI** can be used for **automobile dataset analysis**. The dashboard provides insights into car manufacturing trends, engine configurations, body styles, pricing, and fuel types. The goal is to explore the dataset and present **actionable insights** through interactive visuals.  
+## 📊 Dashboard Preview
+![Automobile Dashboard](https://raw.githubusercontent.com/tejaslanghe/powerbi_Project/main/Screenshot%202025-08-20%20124241.png)
 
 ---
 
-## 🔍 Key Insights & Features  
-- **Fuel-Type Analysis**  
-  - Comparison of vehicles using **Diesel vs Gasoline**.  
-  - Distribution of fuel types across different car brands.  
-
-- **Engine & Cylinders Analysis**  
-  - Breakdown of cars by **number of cylinders** across manufacturers.  
-  - Visualization of performance and engine variety in the dataset.  
-
-- **Body-Style Analysis**  
-  - Count of car makes across **sedan, hatchback, wagon, convertible, and hardtop** categories.  
-
-- **Price vs Fuel-Type**  
-  - Relationship between vehicle **prices** and fuel types.  
-
-- **Make & Manufacturer Analysis**  
-  - Distribution of cars by **brand** (Mazda, Honda, Mercedes, BMW, Audi, etc.).  
-  - Highlighting manufacturers with the highest variety of models.  
+## 📌 Project Overview
+This Power BI dashboard presents a comprehensive analysis of an automobile dataset, offering insights into fuel types, engine configurations, body styles, pricing, and manufacturer trends. It empowers users to interactively explore automotive data through intuitive visualizations.
 
 ---
 
-## 🛠️ Tools & Techniques  
-- **Power BI Desktop**  
-- **Data Transformation** (Power Query)  
-- **Interactive Visuals** (Bar, Donut, and Pie Charts)  
-- **Slicers & Filters** for dynamic exploration  
+## 🔍 Key Insights & Features
+- **Fuel-Type Analysis**
+  - Diesel vs Gasoline distribution by car brand.
+  
+- **Engine & Cylinder Breakdown**
+  - Number of cylinders across different makes.
+
+- **Body-Style Distribution**
+  - Counts of sedans, hatchbacks, wagons, convertibles, and hardtops.
+
+- **Price vs Fuel-Type**
+  - Correlation between vehicle price ranges and fuel types.
+
+- **Make & Manufacturer Insights**
+  - Distribution across brands like Mazda, Honda, Mercedes-Benz, BMW, Audi, etc.
 
 ---
 
-## 💡 Business Insights  
-- **Mazda, Honda, and Chevrolet** dominate the dataset in terms of variety.  
-- **Sedans and Hatchbacks** are the most common body styles.  
-- Diesel vehicles are less represented compared to gasoline-powered cars.  
-- Most cars in the dataset fall in the **medium price range**, with luxury brands priced higher.  
-- Cylinder distribution shows that **4-cylinder cars are the most common**, highlighting efficiency trends.  
+## 🛠️ Tools & Techniques Used
+- **Power BI Desktop**
+- Data transformation with **Power Query**
+- Interactive visualizations: Bar, Donut, and Pie charts
+- Dynamic exploration via **Slicers & Filters**
 
 ---
 
-## 🚀 Outcomes  
-- Provides a **comprehensive overview of the automobile dataset**.  
-- Helps in identifying **market trends, fuel preferences, and pricing structures**.  
-- Can be extended for **predictive modeling and deeper statistical analysis**.  
+## 💡 Business Insights
+- Brands like **Mazda, Honda, and Chevrolet** feature prominently.
+- The most prevalent body styles are **sedan** and **hatchback**.
+- Gasoline cars are more common than diesel across price segments.
+- A **mid-price range** dominates, with luxury brands commanding higher values.
+- **4-cylinder vehicles** are the most frequent, indicating emphasis on efficiency.
 
 ---
 
-## 🔮 Future Enhancements  
-- Add **KPIs** like Average Price by Brand, Mileage Distribution.  
+## 🚀 Outcomes
+- Offers a holistic overview of automotive trends from a dataset.
+- Helps in identifying market patterns, consumer preferences, and fuel-type distribution.
+- Provides foundations for further predictive analysis or model-building.
+
+---
+
+## 🔮 Future Enhancements
+- Add KPIs like **Average Price by Brand**, **Mileage Trends**.
+- Integrate **forecasting models** to predict future automotive trends.
+- Enrich with **geospatial visualizations** (if geographic data is available).
+
+---
+
+###  Conclusion
+This project highlights how Power BI can transform raw automotive data into strategic visual insights, enabling better understanding of industry trends.
+
+---
+
 - Integrate **forecasting models** for predicting automobile trends.  
 - Expand with **geographical analysis** (if location data available).  
