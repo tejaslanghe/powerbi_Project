@@ -1,97 +1,61 @@
-﻿**<p align="center">AUTOMOBILE DATASET ANALYSIS</p>**
+# 🚗 Automobile Dataset Analysis – Power BI Dashboard  
 
-`                                                <p align="center"> Presented by- Tejas Langhe </p>
+## 📊 Dashboard Preview  
+![Automobile Dashboard](https://github.com/akanksha7218/Excel-Data-Analysis/blob/main/Excel%20Project%201.jpg)  
 
- <p align="center">
-                           **DASHBOARD BASED ON AUTOMOBILE DATASET** 
+---
 
-![](Aspose.Words.d6bb2b07-2510-4502-983f-60427aecc4ce.002.jpeg)
+## 📌 Project Overview  
+This project demonstrates how **Power BI** can be used for **automobile dataset analysis**. The dashboard provides insights into car manufacturing trends, engine configurations, body styles, pricing, and fuel types. The goal is to explore the dataset and present **actionable insights** through interactive visuals.  
 
-**Data Exploration :** 
+---
 
-In Automobile dataset, there are different information about automobile data like aspiration ,body style , bore. We have the engine type ,engine size , engine location fuel type ,fuel size. We have different types of wheels, horse power ,height ,price ,symbols ,etc. We have the number of doors ,number of cylinders ,length, stroke    
+## 🔍 Key Insights & Features  
+- **Fuel-Type Analysis**  
+  - Comparison of vehicles using **Diesel vs Gasoline**.  
+  - Distribution of fuel types across different car brands.  
 
-**LIST OF PROBLEM STATEMENTS**  
+- **Engine & Cylinders Analysis**  
+  - Breakdown of cars by **number of cylinders** across manufacturers.  
+  - Visualization of performance and engine variety in the dataset.  
 
-1)Engine Price : 
+- **Body-Style Analysis**  
+  - Count of car makes across **sedan, hatchback, wagon, convertible, and hardtop** categories.  
 
-Understand the market prices of vehicles engines. 
+- **Price vs Fuel-Type**  
+  - Relationship between vehicle **prices** and fuel types.  
 
-2) City-mpg wise Market Price : 
+- **Make & Manufacturer Analysis**  
+  - Distribution of cars by **brand** (Mazda, Honda, Mercedes, BMW, Audi, etc.).  
+  - Highlighting manufacturers with the highest variety of models.  
 
-Determine the market price of vehicle in city-mpg.  
+---
 
-3)Engine Size :   
+## 🛠️ Tools & Techniques  
+- **Power BI Desktop**  
+- **Data Transformation** (Power Query)  
+- **Interactive Visuals** (Bar, Donut, and Pie Charts)  
+- **Slicers & Filters** for dynamic exploration  
 
-` `Identify the size of the engine is important in this database .identify the size of each engine types  
+---
 
-4)Symbol Rate : 
+## 💡 Business Insights  
+- **Mazda, Honda, and Chevrolet** dominate the dataset in terms of variety.  
+- **Sedans and Hatchbacks** are the most common body styles.  
+- Diesel vehicles are less represented compared to gasoline-powered cars.  
+- Most cars in the dataset fall in the **medium price range**, with luxury brands priced higher.  
+- Cylinder distribution shows that **4-cylinder cars are the most common**, highlighting efficiency trends.  
 
-Determine the symbolling of vehicle with respect to its price. 
+---
 
-5) Fuel System Range : 
+## 🚀 Outcomes  
+- Provides a **comprehensive overview of the automobile dataset**.  
+- Helps in identifying **market trends, fuel preferences, and pricing structures**.  
+- Can be extended for **predictive modeling and deeper statistical analysis**.  
 
-Identify the range of fuel system with respect to different engine type. 
+---
 
-**RESOLVING THE PROBLEMS BY USING CHARTS** 
-
-1)Count of Engine price by engine type **Visualization** = Stacked Column Chart 
-
-**Explaination**  = The chart will illustrate the different types of engine types over                         the prices. 
-
-![](Aspose.Words.d6bb2b07-2510-4502-983f-60427aecc4ce.003.png)
-
-Engine type                                 Price 1.ohc                                             150 2.ohcf                                             10 3.ohcv                                              9 4.dohc                                              8 
-
-This chart shows the prices of engine type such as ohc (150) ,ohcf (10) ,ohcv (9) , dohc (8) ,I (8) ,etc. 
-
-2)Count of price by city-mpg. 
-
-**Visualization** = Donut Chart
-
-**Explaination**  = This chart will illustrate the city-mpg to price. It means(city-    mpg) score the car will get on average in city condition with stopping and starting at lower speed. 
-
-![](Aspose.Words.d6bb2b07-2510-4502-983f-60427aecc4ce.004.png)
-
-City-mpg                                        Price 
-
-1) 31                                                28(13.66 %) 
-1) 19                                                27(13.17 %) 
-1) 24                                                22(10.73 %) 
-
-3)Sum of Engine size by Engine type 
-
-**Visualization** = Funnel chart 
-
-**Explaination** = This chart will illustrate the different sizes of engine over the different types of engine 
-
-![](Aspose.Words.d6bb2b07-2510-4502-983f-60427aecc4ce.005.png)
-
-Engine Type                        Engine Size 1.ohc                                       100 % 2.ohcv                                       10 % 3.dohc                                         9 % 4.ohcf                                          9 % 
-
-5\.i                                                 8 % 
-
-4)Count of price by Symboling 
-
-**Visualization** = Bar chart** 
-
-**Explaination** = This chart will illustrate the price of different symbols 
-
-![](Aspose.Words.d6bb2b07-2510-4502-983f-60427aecc4ce.006.png)
-
-Symboling                               Price 
-
-1  54 2  30 3  25 
-
-5) Count of fuel system by Engine types 
-
-**Visualization** = Line chart** 
-
-**Explaination** = The Line chart will illustrate the fuel system ovet engine type 
-
-![](Aspose.Words.d6bb2b07-2510-4502-983f-60427aecc4ce.007.png)
-
-In this chart shows the count of fuel system by engine type. Engine type over fuel system is ohc has more than 100 but remaining are lesser fuel systems such as ohcf ,ohcv ,dohc ,I ,rotor ,etc. 
-
-[ref1]: Aspose.Words.d6bb2b07-2510-4502-983f-60427aecc4ce.001.png
-</p>
+## 🔮 Future Enhancements  
+- Add **KPIs** like Average Price by Brand, Mileage Distribution.  
+- Integrate **forecasting models** for predicting automobile trends.  
+- Expand with **geographical analysis** (if location data available).  
