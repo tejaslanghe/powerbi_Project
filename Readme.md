@@ -47,7 +47,7 @@ This Power BI dashboard presents a comprehensive analysis of an automobile datas
 ---
 
 ### 3️⃣ Count of Make by Body Style
-![Body Style](images/B3.png)
+![Body Style](https://github.com/tejaslanghe/powerbi_Project/blob/main/B3.png)
 
 - **Sedan (36.36%)** and **Hatchback (31.82%)** are the most common body styles.  
 - **Wagon (18.18%)** has a moderate share.  
