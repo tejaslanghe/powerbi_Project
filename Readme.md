@@ -57,7 +57,7 @@ This Power BI dashboard presents a comprehensive analysis of an automobile datas
 ---
 
 ### 4️⃣ Count of Fuel-Type by Price
-![Fuel-Type by Price](images/B4.png)
+![Fuel-Type by Price](https://github.com/tejaslanghe/powerbi_Project/blob/main/B4.png)
 
 - Prices range from **₹7,295 to ₹17,450**.  
 - Popular clusters at **₹7,295, ₹8,845, and ₹16,500** (2 cars each).  
