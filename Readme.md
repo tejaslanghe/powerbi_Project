@@ -67,7 +67,7 @@ This Power BI dashboard presents a comprehensive analysis of an automobile datas
 ---
 
 ### 5️⃣ Cylinder Distribution Across Makes
-![Cylinders Detailed](images/B5.png)
+![Cylinders Detailed](https://github.com/tejaslanghe/powerbi_Project/blob/main/B5.png)
 
 - Balanced distribution among **Alfa-Romeo, Audi, BMW, Chevrolet, Mazda, Mercedes-Benz, Dodge, Honda, and Isuzu**.  
 - Most brands contribute equally (**13.33% each**).  
