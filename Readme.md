@@ -76,7 +76,7 @@ This Power BI dashboard presents a comprehensive analysis of an automobile datas
 ---
 
 ### 6️⃣ Total Count of Makes
-![Total Makes](images/B6.png)
+![Total Makes](https://github.com/tejaslanghe/powerbi_Project/blob/main/B6.png)
 
 - Dataset contains **72 cars** across multiple manufacturers.  
 - Indicates a **diverse dataset** for analysis.  
