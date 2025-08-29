@@ -38,7 +38,7 @@ This Power BI dashboard presents a comprehensive analysis of an automobile datas
 ---
 
 ### 2️⃣ Count of Number of Cylinders by Make
-![Cylinders by Make](images/B2.png)
+![Cylinders by Make](https://github.com/tejaslanghe/powerbi_Project/blob/main/B2.png)
 
 - **Mazda (23.61%)** and **Honda (18.06%)** dominate cylinder counts.  
 - Majority of cars have **8, 9, or 13 cylinders**, highlighting mid-to-high performance engines.  
