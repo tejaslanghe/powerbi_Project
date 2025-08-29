@@ -84,7 +84,7 @@ This Power BI dashboard presents a comprehensive analysis of an automobile datas
 ---
 
 ### 7️⃣ Fuel-Type Categories
-![Fuel-Type Categories](images/B7.png)
+![Fuel-Type Categories](https://github.com/tejaslanghe/powerbi_Project/blob/main/B7.png)
 
 - Only **two categories**:  
   - **d → Diesel**  
