@@ -26,25 +26,83 @@ This Power BI dashboard presents a comprehensive analysis of an automobile datas
 - **Make & Manufacturer Insights**
   - Distribution across brands like Mazda, Honda, Mercedes-Benz, BMW, Audi, etc.
 
----
+## 📊 Insights
 
-## 🛠️ Tools & Techniques Used
-- **Power BI Desktop**
-- Data transformation with **Power Query**
-- Interactive visualizations: Bar, Donut, and Pie charts
-- Dynamic exploration via **Slicers & Filters**
+### 1️⃣ Count of Fuel-Type by Make
+![Fuel-Type by Make](images/B1.png)
 
----
-
-## 💡 Business Insights
-- Brands like **Mazda, Honda, and Chevrolet** feature prominently.
-- The most prevalent body styles are **sedan** and **hatchback**.
-- Gasoline cars are more common than diesel across price segments.
-- A **mid-price range** dominates, with luxury brands commanding higher values.
-- **4-cylinder vehicles** are the most frequent, indicating emphasis on efficiency.
+- Both **diesel** and **gas** cars are present.  
+- **Mazda** and **Mercedes-Benz** offer both fuel types, while others stick to a single type.  
+- **Gasoline cars dominate** over diesel.  
 
 ---
 
+### 2️⃣ Count of Number of Cylinders by Make
+![Cylinders by Make](images/B2.png)
+
+- **Mazda (23.61%)** and **Honda (18.06%)** dominate cylinder counts.  
+- Majority of cars have **8, 9, or 13 cylinders**, highlighting mid-to-high performance engines.  
+- Other brands like **Dodge, BMW, Mercedes-Benz, Audi, Isuzu, Alfa-Romeo, and Chevrolet** have smaller shares.  
+
+---
+
+### 3️⃣ Count of Make by Body Style
+![Body Style](images/B3.png)
+
+- **Sedan (36.36%)** and **Hatchback (31.82%)** are the most common body styles.  
+- **Wagon (18.18%)** has a moderate share.  
+- **Convertibles (9.09%)** and **Hardtops (4.55%)** are niche segments.  
+- Consumers prefer **practical body styles** (sedan & hatchback).  
+
+---
+
+### 4️⃣ Count of Fuel-Type by Price
+![Fuel-Type by Price](images/B4.png)
+
+- Prices range from **₹7,295 to ₹17,450**.  
+- Popular clusters at **₹7,295, ₹8,845, and ₹16,500** (2 cars each).  
+- Most other price points have just **1 car**.  
+- Suggests manufacturers cluster models around **affordable price ranges**.  
+
+---
+
+### 5️⃣ Cylinder Distribution Across Makes
+![Cylinders Detailed](images/B5.png)
+
+- Balanced distribution among **Alfa-Romeo, Audi, BMW, Chevrolet, Mazda, Mercedes-Benz, Dodge, Honda, and Isuzu**.  
+- Most brands contribute equally (**13.33% each**).  
+- No single brand dominates → **engine diversity across makes**.  
+
+---
+
+### 6️⃣ Total Count of Makes
+![Total Makes](images/B6.png)
+
+- Dataset contains **72 cars** across multiple manufacturers.  
+- Indicates a **diverse dataset** for analysis.  
+
+---
+
+### 7️⃣ Fuel-Type Categories
+![Fuel-Type Categories](images/B7.png)
+
+- Only **two categories**:  
+  - **d → Diesel**  
+  - **g → Gas**  
+- Majority are **gas-powered cars**, reflecting real-world market trends.  
+
+---
+
+## 🚀 Summary
+
+- Dataset has **72 cars** from various brands.  
+- **Gasoline cars dominate**, but diesel options exist.  
+- **Sedan & Hatchback** make up ~70% of the dataset → most popular consumer choice.  
+- **Mazda & Honda** appear most frequently, leading in cylinder distribution.  
+- **Price clustering** shows affordability-driven manufacturing strategies.  
+- The dataset offers valuable insights into **consumer preferences, pricing strategy, and manufacturer diversity**.  
+
+---
 ## 🚀 Outcomes
 - Offers a holistic overview of automotive trends from a dataset.
 - Helps in identifying market patterns, consumer preferences, and fuel-type distribution.
