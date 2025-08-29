@@ -29,7 +29,7 @@ This Power BI dashboard presents a comprehensive analysis of an automobile datas
 ## 📊 Insights
 
 ### 1️⃣ Count of Fuel-Type by Make
-![Fuel-Type by Make](images/B1.png)
+![Fuel-Type by Make](https://github.com/tejaslanghe/powerbi_Project/blob/main/B1.png)
 
 - Both **diesel** and **gas** cars are present.  
 - **Mazda** and **Mercedes-Benz** offer both fuel types, while others stick to a single type.  
